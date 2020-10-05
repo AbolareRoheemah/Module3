@@ -1,0 +1,23 @@
+h2{
+    color: yellowgreen;
+}
+.food{
+    font-size: 1.5em;
+}
+.para{
+    background-color: cornsilk;
+    padding: 20px;
+    margin: 5px;
+    position: relative;
+}
+.chicken{
+    font-size: 1.5em;
+    color: salmon;
+}
+.dash{
+    border: 3px solid black;
+}
+.boton{
+    position: absolute;
+    bottom: 0px;
+}
